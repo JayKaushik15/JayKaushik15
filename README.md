@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hye, This is Jay Kaushik.<br>🔭 Currently working on Java | DSA.<br>🌱 Learning JavaScript.<br>
+Hye, This is Jay Kaushik.<br>🔭 Currently working on Java | DSA.<br>🌱 Learning MERN.<br>
 
 
 ## 🌐 Socials:
